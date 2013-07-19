@@ -5,3 +5,4 @@ text = page.read().decode("utf8")
 
 price = text[234:238]
 print(price)
+print("Hello")
